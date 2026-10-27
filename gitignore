@@ -1,0 +1,7 @@
+.streamlit/
+cache_dados/
+historico_previsoes.csv
+uso_ia.json
+__pycache__/
+creditos.json
+creditos.tmp
